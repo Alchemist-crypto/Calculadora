@@ -1,0 +1,25 @@
+body{
+    font-family: sans-serif;
+    background-color: #efefef;
+}
+.container{
+    margin: 50px;
+    padding: 10px;
+    width: 750px;
+    background-color: rgb(13, 185, 240);
+}
+section{
+    display: flex;
+    justify-content: center;
+}
+table{
+    margin-left: 30px;
+}
+button{
+    border: none;
+    padding: 20px;
+    margin-left: 40px;
+}
+button:hover{
+    background-color: rgb(9, 187, 177);
+}
